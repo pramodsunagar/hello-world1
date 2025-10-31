@@ -1,2 +1,3 @@
 Hello, Wellcome to Cloudthat DevOps Training!
 Today is Friday
+New Line
